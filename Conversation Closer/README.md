@@ -12,4 +12,4 @@ This script will close all open conversation for the given admin.
 ### Example:
 `ruby app.rb qwieuhv23742efdbb7328edhb2873br=`
 
-**Please note that if you have a large amount of open conversation, this might take a while to run.**
+**Please note that if you have a large amount of open conversations, this might take a while to run.**

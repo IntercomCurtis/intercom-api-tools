@@ -6,7 +6,7 @@ This script will close all open conversation for the given admin.
 
 1. Clone the repo to your desktop
 2. Navigate to the cloned folder and run `bundle install`
-3. Edit the code and pass the admin_id who's conversations you want to close as the parameter: `close_conversations(12345)`
+3. Edit `app.rb` and pass the admin_id who's conversations you want to close as the parameter: `close_conversations(12345)`
 4. Run `ruby app.rb` followed by your Access Token.
 
 ### Example:
